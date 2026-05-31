@@ -22,7 +22,7 @@ Framework de automatización para [Swag Labs (saucedemo.com)](https://www.sauced
 ## 📁 Estructura del Proyecto
 
 ```
-eki-automation/
+crowdar-qa-automation/
 ├── pages/                     # Page Objects
 │   ├── base_page.py           # Clase base con métodos comunes
 │   ├── login_page.py          # Page Object: Login
